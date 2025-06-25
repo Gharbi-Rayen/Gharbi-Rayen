@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Rayen, and I'm a computer science engineering student with an interest in web and mobile development.
+🔭 I’m currently looking for a job because I'm broke :'(
+
 <!--
 **Gharbi-Rayen/Gharbi-Rayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
