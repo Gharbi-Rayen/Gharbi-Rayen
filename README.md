@@ -2,7 +2,10 @@
 
 My name is Rayen, and I'm a computer science engineering student with an interest in web and mobile development.
 - 🔭 I’m currently looking for a job because I'm broke :'(
+-🌍  I live in Tunisia
+-✉️  You can contact me at ggharbi323@gmail.com
 
+## Skills
 <!--
 **Gharbi-Rayen/Gharbi-Rayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
